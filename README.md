@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently learning Fullstack Web Development  
 - 🌱 Exploring DSA, Aptitude & Reasoning  
-- 🌐 My Portfolio: [alokishere.netlify.app](   )  
+- 🌐 My Portfolio: ........
 - 💬 Ask me about HTML, CSS, JS, GSAP, Locomotive, Tailwind, React-Js, Node-Js, Express-Js, Mongo-BD.
 - 🎨 I use Canva for creative design work  
 - ⚡ Fun fact: I don’t just write code, I bring ideas to life!  
 
 ### 📱 Connect with me:
-[![LinkedIn](https://www.linkedin.com/feed/)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin)](https://www.linkedin.com/feed/)
 
 ---
 
@@ -25,10 +25,12 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-### 📊 GitHub Stats:### 📈 GitHub Stats
+### 📊 GitHub Stats:
 
 ![Jiten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiten-soni&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiten-soni&layout=compact&theme=radical&hide=css,html)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiten-soni&theme=radical)](https://git.io/streak-stats)
 
 
